@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="BUTTON_4">4</string>
+    <string name="BUTTON_5">5</string>
+    <string name="BUTTON_6">6</string>
+    <string name="BUTTON_MINUS">-</string>
+    <string name="BUTTON_MUL">*</string>
+    <string name="BUTTON_9">9</string>
+    <string name="BUTTON_8">8</string>
+    <string name="BUTTON_7">7</string>
+    <string name="BUTTON_DIV">/</string>
+    <string name="BUTTON_RIGHT_BRACE">)</string>
+    <string name="BUTTON_LEFT_BRACE">(</string>
+    <string name="BUTTON_CLEAR">C</string>
+    <string name="BUTTON_ADD">+</string>
+    <string name="BUTTON_3">3</string>
+    <string name="BUTTON_0">0</string>
+    <string name="BUTTON_1">1</string>
+    <string name="BUTTON_2">2</string>
+    <string name="BUTTON_DOT">.</string>
+    <string name="BUTTON_CALC">=</string>
+    <string name="display" />
+</resources>
